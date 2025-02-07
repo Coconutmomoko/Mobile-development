@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Compose Learning</string>
+    <string name="homework_title">\uD83C\uDF38 My Homework</string>
+    <string name="fab_add_diary">Add a diary ✏️</string>
+    <string name="fab_heart_desc">heart</string>
+    <string name="tips_text">✨ Tips: Stay happy!</string>
+    <string name="note_1_title">Note 1</string>
+    <string name="note_1_desc">Something interesting.</string>
+    <string name="reminder_title">Reminder</string>
+    <string name="reminder_desc">Drink more water!</string>
+    <string name="tip_title">Tip of the Day</string>
+    <string name="tip_desc">Learn new things!</string>
+    <string name="login_prompt">Please log in</string>
+    <string name="username_label">Username</string>
+    <string name="password_label">Password</string>
+    <string name="login_button">Login</string>
+    <string name="cancel_button">Cancel</string>
+</resources>

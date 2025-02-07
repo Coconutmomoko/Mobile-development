@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Compose Learning</string>
+    <string name="note_1_desc">一些有趣的事情</string>
+    <string name="reminder_title">提醒</string>
+    <string name="reminder_desc">多喝水！</string>
+    <string name="tip_title">每日提示</string>
+    <string name="tip_desc">学新事物！</string>
+    <string name="login_prompt">请登录</string>
+    <string name="homework_title">我的作业</string>
+    <string name="fab_add_diary">添加日记</string>
+    <string name="fab_heart_desc">爱心</string>
+    <string name="tips_text">小贴士：保持开心！</string>
+    <string name="note_1_title">笔记1</string>
+    <string name="username_label">用户名</string>
+    <string name="password_label">密码</string>
+    <string name="login_button">登录</string>
+    <string name="cancel_button">取消</string>
+</resources>
